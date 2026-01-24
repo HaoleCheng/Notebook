@@ -5,5 +5,5 @@ Irregularly updating notes or coursework regarding:
 - Real Analysis
 - Statistics  
 - Programming  
-- 
 
+Any comments, corrections, or suggestions would be greatly appreciated.
